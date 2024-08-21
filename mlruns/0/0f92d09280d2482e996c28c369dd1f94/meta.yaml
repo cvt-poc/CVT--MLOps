@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0f92d09280d2482e996c28c369dd1f94/artifacts
+end_time: 1724251341318
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0f92d09280d2482e996c28c369dd1f94
+run_name: enchanting-boar-15
+run_uuid: 0f92d09280d2482e996c28c369dd1f94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724251341306
+status: 4
+tags: []
+user_id: codespace
