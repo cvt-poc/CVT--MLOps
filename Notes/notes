@@ -1,0 +1,29 @@
+ML pipeline includes load & prepare data ---> Vectorize ---> Train
+
+MLOps Maturity Model includes 5 levels
+---> 0 level: No MLOps 
+---> 1 level: Devops, No MLOps
+---> 2 level: Automated Training
+---> 3 level: Automated Deployment
+---> 4 level: Full MLOps Automation
+
+
+Experiment Tracking is the process of keeping track of all the relevant information from an ML Experiment includes:
+1. Source code
+2. Environment
+3. Data
+4. Model
+5. Hyperparameters
+6. Metrics
+
+why experiment tracking is so important ?
+1. Reproducibility
+2. Organization
+3. Optimization
+
+
+MLFlow an open source platform for the machine learning lifecycle. it contains four main modules
+1. Tracking
+2. Models
+3. Model Registry
+4. Projects
