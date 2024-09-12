@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/CVT--MLOps/running%20mlflow-examples/mlruns/295805651491361932/db374f8de26140a9bbc71615602affcf/artifacts
+end_time: 1725643466785
+entry_point_name: ''
+experiment_id: '295805651491361932'
+lifecycle_stage: active
+run_id: db374f8de26140a9bbc71615602affcf
+run_name: sedate-owl-830
+run_uuid: db374f8de26140a9bbc71615602affcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725643466773
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/CVT--MLOps/running%20mlflow-examples/mlruns/295805651491361932/00d38f8f394b47b2bbf41b6295ab6a6f/artifacts
+end_time: 1725635463823
+entry_point_name: ''
+experiment_id: '295805651491361932'
+lifecycle_stage: active
+run_id: 00d38f8f394b47b2bbf41b6295ab6a6f
+run_name: debonair-wasp-303
+run_uuid: 00d38f8f394b47b2bbf41b6295ab6a6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725635461572
+status: 3
+tags: []
+user_id: codespace
