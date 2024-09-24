@@ -1,0 +1,20 @@
+# Model Registry
+--> A model registry is a centralized repository that stores , manages, and tracks ML models  across their entire lifecycle think as like a library where you can :
+1. Store models (trained & tested)
+2. Track model versions and updates
+3. Document model performance & metrics
+4. Share models with team and deploy to production
+5. Monitor model drift & retraining needs
+
+
+# Note
+--> It is actually not deploying any model it only lists what are the models that are " Production - Ready "
+--> We need to complete the model registry with some CI/CD code in order to do the actual deployment of those models.
+
+
+# Model management in MLFlow
+It provides :
+1. Model lineage
+2. Model Version
+3. Stage transitions &
+4. Annotations
